@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: About
 ---
-This is the resume page
+This is the About page
 
