@@ -32,9 +32,8 @@ plugins:
 
 minima:
   nav_pages:
-    - resume
     - blog archive
-
+    - resume
 
 titles_from_headings:
   strip_title: true
