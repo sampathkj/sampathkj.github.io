@@ -33,7 +33,7 @@ plugins:
 minima:
   nav_pages:
     - resume
-    - blog archive
+    - archive
 
 
 titles_from_headings:
