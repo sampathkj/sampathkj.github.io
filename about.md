@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 # Sampath Jambunathan
-### Insights Strategist | Data-Driven Storyteller | Visualization Specialist
+#### Insights Strategist | Data-Driven Storyteller | Visualization Specialist
 
 ## Summary
 I specialize in transforming complex data into clear, actionable insights and strategic recommendations that inform key business decisions. By analyzing large datasets, I uncover meaningful patterns and present them through compelling narratives and intuitive visualizations. With expertise in data modeling, predictive analytics, and visualization, I bridge the gap between raw data and strategic decision-making, enabling businesses to drive growth and innovation.
@@ -11,10 +11,10 @@ I specialize in transforming complex data into clear, actionable insights and st
 #### Director Data Science, Tiger Analytics
 ###### Apr 2024 to Jun 2025 at Bangalore
 Led a team of data scientists in deploying an AI-driven revenue growth solution for a global QSR client
-›	Collaborated with consulting, delivery, and client teams to ensure successful implementation
-›	Designed and executed pilot experiments to assess the AI solution’s effectiveness in driving revenue
-›	Developed data-driven narratives to clearly communicate the value and potential impact of the AI solution
-›	Conducted research on historical revenue strategies provide actionable recommendations for future revenue growth approaches
+- Collaborated with consulting, delivery, and client teams to ensure successful implementation
+- Designed and executed pilot experiments to assess the AI solution’s effectiveness in driving revenue
+- Developed data-driven narratives to clearly communicate the value and potential impact of the AI solution
+- Conducted research on historical revenue strategies provide actionable recommendations for future revenue growth approaches
 
 #### Founder, Triparambh Technologies
 ###### Nov 2018 to Jun 2023 at Bangalore
