@@ -22,6 +22,11 @@ theme: "minima"
 
 rss: rss
 
+header_pages:
+  - resume
+  - about me
+  - contact
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
