@@ -2,10 +2,20 @@
 layout: page
 title: About
 ---
-# Sampath Kumar Jambunathan
+# Sampath Jambunathan
+### Insights Strategist | Data-Driven Storyteller | Visualization Specialist
+
 ## Summary
-Hands-on technologist with track record of building analytics and data science solutions for complex, cross-functional business problems. 18 years of research, consulting, product development and management experience
-## Work Experience 
+I specialize in transforming complex data into clear, actionable insights and strategic recommendations that inform key business decisions. By analyzing large datasets, I uncover meaningful patterns and present them through compelling narratives and intuitive visualizations. With expertise in data modeling, predictive analytics, and visualization, I bridge the gap between raw data and strategic decision-making, enabling businesses to drive growth and innovation.
+
+#### Director Data Science, Tiger Analytics
+###### Apr 2024 to Jun 2025 at Bangalore
+Led a team of data scientists in deploying an AI-driven revenue growth solution for a global QSR client
+›	Collaborated with consulting, delivery, and client teams to ensure successful implementation
+›	Designed and executed pilot experiments to assess the AI solution’s effectiveness in driving revenue
+›	Developed data-driven narratives to clearly communicate the value and potential impact of the AI solution
+›	Conducted research on historical revenue strategies provide actionable recommendations for future revenue growth approaches
+
 #### Founder, Triparambh Technologies
 ###### Nov 2018 to Jun 2023 at Bangalore
 Tripārambh is an AI-based intelligent travel assistant that helps travelers effortlessly organize their travel plans, gather destination information, and compile crisp travel video logs of their experience
