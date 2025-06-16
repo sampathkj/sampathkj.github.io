@@ -32,7 +32,7 @@ plugins:
 
 minima:
   nav_pages:
-    - README.md
+    - resume.md
 
 
 titles_from_headings:
