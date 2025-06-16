@@ -22,9 +22,6 @@ theme: "minima"
 
 rss: rss
 
-header_pages:
-  - 2021-03-08-blog-post-title-from-file-name.md
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
