@@ -1,1 +1,5 @@
-RESUME PAGE
+---
+title: Resume
+---
+This is the resume page
+
