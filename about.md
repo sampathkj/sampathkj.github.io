@@ -9,7 +9,8 @@ title: About
 I specialize in transforming complex data into clear, actionable insights and strategic recommendations that inform key business decisions. By analyzing large datasets, I uncover meaningful patterns and present them through compelling narratives and intuitive visualizations. With expertise in data modeling, predictive analytics, and visualization, I bridge the gap between raw data and strategic decision-making, enabling businesses to drive growth and innovation.
 
 ### Work Experience
-#### Director Data Science, Tiger Analytics, ##### Apr 2024 to Jun 2025 at Bangalore
+#### Director Data Science, Tiger Analytics
+##### Apr 2024 to Jun 2025 at Bangalore
 Led a team of data scientists in deploying an AI-driven revenue growth solution for a global QSR client
 - Collaborated with consulting, delivery, and client teams to ensure successful implementation
 - Designed and executed pilot experiments to assess the AI solution’s effectiveness in driving revenue
