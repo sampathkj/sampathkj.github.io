@@ -6,7 +6,7 @@ title: ""
 #### Insights Strategist | Data-Driven Storyteller | Visualization Specialist  
 
 ### Summary  
-I specialize in transforming complex data into clear, actionable insights and strategic recommendations that inform key business decisions.<br>By analyzing large datasets, I uncover meaningful patterns and present them through compelling narratives and intuitive visualizations.<br>With expertise in data modeling, predictive analytics, and visualization, I bridge the gap between raw data and strategic decision-making, enabling businesses to drive growth and innovation.  
+I specialize in transforming complex data into clear, actionable insights and strategic recommendations that inform key business decisions. By analyzing large datasets, I uncover meaningful patterns and present them through compelling narratives and intuitive visualizations. With expertise in data modeling, predictive analytics, and visualization, I bridge the gap between raw data and strategic decision-making, enabling businesses to drive growth and innovation.  
 
 ### Work Experience  
 **Director Data Science, Tiger Analytics** (Apr 2024 – Jun 2025 · Bangalore)<br>
