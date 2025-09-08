@@ -71,7 +71,27 @@ Promoted thrice in a span of five years into roles of increasing analytics leade
 - Identified supply-demand dynamics and built optimization models to improve aircraft availability
 
 ### Education
-#### Master of Engineering
-#### Bachelor of Engineering
+#### Graduate certificate in Data Mining and Applications
+##### Stanford Center for Professional Development, Stanford University Feb 2014 at Palo Alto, CA, U.S.
+
+#### Master of Engineering in Industrial Engineering (Operations Research)
+##### Texas A&M University Jan 2002 to May 2004 at College Station, TX, U.S.
+
+#### Bachelor of Engineering in Mechanical Engineering (Specialization in Production Technology)
+##### Osmania University Jun 1997 to May 2001 at Hyderabad, IN
+
+#### Other Certifications
+- Cloudera Data Analyst Training: Using Pig, Hive, and Impala with Hadoop
+- Diploma in Software Technology
+- Certificate in UNIX, C, C++
+- Certificate in Information Technology
+
+### Skills
+#### Specialties
+Market research, Strategic planning, Consumer internet, Account management, Financial planning and analysis, Behavioral targeting, Data strategy, Audience segmentation, Competitive research using Comscore, Nielsen, Analytic consulting, Product management, Prototyping and Wireframing, Big data management, Web analytics, Risk modeling, Pricing yield management, Digital marketing, Predictive analytics, Data visualization
+
+#### Know-how
+Regression, Classification, Clustering, Decision trees, Ensemble methods, SVM’s, Deep learning, Neural networks, CNN’s, Computer vision, BERT and Transformers, Natural language processing, Linear and Non-linear optimization, Forecasting, Design of experiments, Markov chains, Discrete event simulation
+
 
 
