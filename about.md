@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ""
 ---
 ## Sampath Jambunathan  
 #### Insights Strategist | Data-Driven Storyteller | Visualization Specialist  
