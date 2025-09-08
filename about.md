@@ -10,39 +10,65 @@ I specialize in transforming complex data into clear, actionable insights and st
 
 ### Work Experience
 #### Director Data Science, Tiger Analytics
-##### Apr 2024 to Jun 2025 at Bangalore
-Led a team of data scientists in deploying an AI-driven revenue growth solution for a global QSR client
+##### Apr 2024 to Jun 2025 at Bangalore, India
+Drove adoption of an AI-powered revenue growth solution for a global QSR client through pilots, data storytelling, and revenue strategy insights
 - Collaborated with consulting, delivery, and client teams to ensure successful implementation
 - Designed and executed pilot experiments to assess the AI solution’s effectiveness in driving revenue
 - Developed data-driven narratives to clearly communicate the value and potential impact of the AI solution
 - Conducted research on historical revenue strategies provide actionable recommendations for future revenue growth approaches
 
-#### Founder, Triparambh Technologies
-##### Nov 2018 to Jun 2023 at Bangalore
+#### Founder Director, Triparambh Technologies
+##### Nov 2018 to Jun 2023 at Bangalore, India
 Tripārambh is an AI-based intelligent travel assistant that helps travelers effortlessly organize their travel plans, gather destination information, and compile crisp travel video logs of their experience
+- Assembled an all-star team of six that built server side, mobile app and website
 - Spearheaded product development, UX/UI design, and data science
 - Successfully launched Tripārambh mobile app on Google Play Store and followed up with app updates
 - Developed computer vision models to assess image quality, detect duplicates and select best shots
 
-#### Director Product Development, Fractal Analytics
-##### Feb 2016 to Nov 2016 at Bangalore
+#### Director AI Product Development, Fractal Analytics
+##### Feb 2016 to Nov 2016 at Bangalore, India
 Led design and development of Crux, a natural-language based B2B SaaS Business Intelligence platform
 - Developed ontology and setup knowledge graphs to prototype various use cases for Crux
 - Worked closely with data scientists to apply and integrate NLP/NLU algorithms into Crux
 - Spawned pilot engagements by pitching Crux to potential customers and help sign up first customer
 
-#### Director of Analytics, Fractal Analytics
-##### Aug 2014 to Feb 2016 at Mumbai
+#### Director Analytics Consulting, Fractal Analytics
+##### Aug 2014 to Feb 2016 at Mumbai, India
 Led end-to-end delivery of consumer and marketing analytic solutions for fortune 100 CPG company – efficiently managing a service worth $2 million in revenue and growing it 20% over a two year period
 - Provided inspirational leadership and rigorous project management guiding a team of thirty analysts
 - Provided strong consulting and thought leadership in developing new data science solutions
 - Trained team in handling big data with Hadoop and Spark and coached them in data visualization
 
+#### Senior Manager Display Advertising Analytics, Oracle Inc.
+##### Apr 2013 to Aug 2014 at San Francisco, CA, U.S.
+- Carried out online advertising performance measurement and analytics for several top advertisers
+- Developed attribution models to measure incremental effectiveness of cross-channel marketing
+- Led cross-functional development of company-wide analytics platform working closely with data engineers, software engineers, and technical service consultants
 
+#### Senior Data Insights Manager, User Data Analytics, Yahoo!
+##### Oct 2011 to Apr 2013 at Sunnyvale, CA, U.S.
+Promoted thrice in a span of five years into roles of increasing analytics leadership at Yahoo!
+- Led team of analysts in delivery of eight research studies with impact of $4M in revenue
+- Conducted actionable research of audience, advertising and competitive usage of Yahoo!
+- Championed data-driven decision making by engaging with cross-functional leadership teams
+- Served as data expert for product management, product marketing, and consumer marketing
 
-#### Oracle
-#### Yahoo!
-#### Knowledge Based Systems Inc.
+#### Marketing Analyst, Product Marketing, Yahoo! 
+##### Feb 2009 to Oct 2011 at Sunnyvale, CA, U.S.
+- Evaluated competitive landscape for Yahoo! Finance to understand and predict trends
+- Authored segmentation research and identified most valuable users to Yahoo!
+
+#### Advertising Analyst, Media Monetization Engg. Yahoo! 
+##### Dec 2006 to Feb 2009 at Sunnyvale, CA, U.S.
+- Built ad retrieval and user ranking models to deliver personalized smart ads and content to users
+- Built auction-based ad bidding system to forecast right price and maximize inventory utilization
+
+#### Systems Analyst, Knowledge Based Systems 
+##### Oct 2004 to Dec 2006 at College Station, TX, U.S.
+- Analyzed U.S. Army’s operations and workflows to enhance process efficiencies in
+- Maximize utilization of aircraft, facilities and personnel
+- Developed simulation models to predict resources for U.S.Army’s planned operations
+- Identified supply-demand dynamics and built optimization models to improve aircraft availability
 
 ### Education
 #### Master of Engineering
