@@ -62,14 +62,14 @@ Promoted thrice in a span of five years into roles of increasing analytics leade
 • Identified supply-demand dynamics and built optimization models to improve aircraft availability  
 
 ### Education  
-**Graduate certificate in Data Mining and Applications** – Stanford Center for Professional Development, Stanford University (Feb 2014 · Palo Alto, CA)  
-**Master of Engineering in Industrial Engineering (Operations Research)** – Texas A&M University (Jan 2002 – May 2004 · College Station, TX)  
-**Bachelor of Engineering in Mechanical Engineering (Specialization in Production Technology)** – Osmania University (Jun 1997 – May 2001 · Hyderabad, IN)  
+**Graduate certificate in Data Mining and Applications**<br> Stanford Center for Professional Development, Stanford University (Feb 2014 · Palo Alto, CA)  
+**Master of Engineering in Industrial Engineering (Operations Research)**<br> Texas A&M University (Jan 2002 – May 2004 · College Station, TX)  
+**Bachelor of Engineering in Mechanical Engineering (Specialization in Production Technology)**<br> Osmania University (Jun 1997 – May 2001 · Hyderabad, IN)  
 
 ### Other Certifications  
-• Cloudera Data Analyst Training: Using Pig, Hive, and Impala with Hadoop
-• Diploma in Software Technology
-• Certificate in UNIX, C, C++
+• Cloudera Data Analyst Training: Using Pig, Hive, and Impala with Hadoop <br>
+• Diploma in Software Technology <br>
+• Certificate in UNIX, C, C++ <br>
 • Certificate in Information Technology  
 
 ### Skills  
